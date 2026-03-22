@@ -21,7 +21,7 @@ TSplus Remote Access provides granular control over user permissions, session ma
 ---
 
 ## Overview of TSplus Remote Access
-![https://docs.tsplus.net/images/remote-support-v3/expert.png)
+![tsplus-remote-access-dashboard](https://docs.tsplus.net/images/remote-support-v3/expert.png)
 
 ---
 
